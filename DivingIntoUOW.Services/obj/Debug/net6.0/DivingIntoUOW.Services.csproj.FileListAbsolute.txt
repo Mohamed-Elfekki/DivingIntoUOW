@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\bin\Debug\net6.0\DivingIntoUOW.Services.deps.json
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\bin\Debug\net6.0\DivingIntoUOW.Services.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\bin\Debug\net6.0\DivingIntoUOW.Services.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.AssemblyInfo.cs
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\refint\DivingIntoUOW.Services.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\ref\DivingIntoUOW.Services.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\bin\Debug\net6.0\DivingIntoUOW.Core.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\bin\Debug\net6.0\DivingIntoUOW.Core.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Services\obj\Debug\net6.0\DivingIntoUOW.Services.csproj.CopyComplete

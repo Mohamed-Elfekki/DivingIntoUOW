@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.AssemblyInfo.cs
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Infrastructure.deps.json
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Infrastructure.runtimeconfig.json
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Infrastructure.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Infrastructure.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Core.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\bin\Debug\net6.0\DivingIntoUOW.Core.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.csproj.CopyComplete
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\refint\DivingIntoUOW.Infrastructure.dll
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.pdb
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\DivingIntoUOW.Infrastructure.genruntimeconfig.cache
+D:\VisualStudioProjects\DivingIntoUOW\DivingIntoUOW.Infrastructure\obj\Debug\net6.0\ref\DivingIntoUOW.Infrastructure.dll
